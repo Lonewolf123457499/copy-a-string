@@ -1,0 +1,6 @@
+str=input("enter the string")
+t=list(str)
+s=""
+c=t.copy()
+c=s.join(t)
+print(c)
